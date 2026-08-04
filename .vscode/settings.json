@@ -1,0 +1,10 @@
+{
+    "python.formatting.provider": "black",
+    "python.formatting.blackPath": "C:/Users/91750/OneDrive/Desktop/python/.venv/Scripts/python.exe",
+    "python.formatting.blackArgs": [
+        "-m",
+        "black"
+    ],
+    "editor.formatOnSave": true,
+    "python.defaultInterpreterPath": "C:/Users/91750/OneDrive/Desktop/python/.venv/Scripts/python.exe"
+}
